@@ -2,6 +2,10 @@
 
 The RAG Web Pipeline is a versatile tool designed to extract and provide relevant information from websites using the RAG (Retrieval-Augmented Generation) model. This pipeline is particularly useful for tasks such as question-answering, summarization, and dialogue generation directly from web content.
 
+# .ENV
+
+Create a .env file and Add OPENAI_API_KEY = "" 
+
 ## Key Features
 
 - **Flexible Input Options:** The pipeline accepts various input sources, including:
