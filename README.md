@@ -42,3 +42,6 @@ To use the RAG Web Pipeline, simply follow these steps:
 5. Select the desired input option (URL, website crawling, subdomain crawling) and provide the necessary inputs.
 
 6. Interact with the system by entering queries and exploring the generated responses.
+
+![Demo Output](<img width="1380" alt="Screenshot 2024-03-22 at 10 40 58 PM" src="https://github.com/0sparsh2/Website-Q-A-using-RAG/assets/50074241/ab17a70f-f2fd-47a1-b904-863e5e217bb8">)
+
